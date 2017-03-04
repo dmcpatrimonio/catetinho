@@ -1,1 +1,1 @@
-Catetinho: musealização e apropriação de um monumento incomum
+Catetinho: trajetórias de apropriação de um monumento incomum
