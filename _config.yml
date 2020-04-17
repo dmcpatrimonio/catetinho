@@ -1,7 +1,7 @@
 title           : "Catetinho: trajetórias na apropriação de um monumento incomum"
 author:
   name          : "Marina Martins Mennucci e Pedro Paulo Palazzo"
-  email         : ""
+  email         : "labeurbe@unb.br"
 description: >-
   Problemas em torno da memória, conservação e musealização do Catetinho,
   a primeira residência e local de trabalho da Novacap na construção de
@@ -12,11 +12,12 @@ lang            : pt
 
 # Content settings {{{1
 header_pages:
+  6icch-mencfp.md
 
 collections:
   biblio:
 
-defaults:
+# defaults:
 
 # Template settings {{{1
 theme           : minima
@@ -47,6 +48,11 @@ plugins:
   - jekyll-readme-index
   - jekyll-relative-links
   - jekyll-titles-from-headings
+
+readme_index:
+  enabled         : true
+  remove_originals: true
+  with_frontmatter: true
 
 google_analytics:
 exclude:
