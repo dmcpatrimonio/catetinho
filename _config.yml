@@ -27,7 +27,8 @@ minima:
     github      : https://github.com/dmcpatrimonio/catetinho
 
 # Build settings {{{1
-source          : /docs
+source          : docs
+permalink       : pretty
 markdown        : kramdown
 kramdown:
   auto_ids      : true

@@ -8,7 +8,7 @@ group :jekyll_plugins do
   gem "jekyll-seo-tag"
   gem "kramdown"
   # Sassc is preferred to the legacy ruby-sass
-  # gem "sassc"
+  gem "sassc"
   # Required GitHub Pages plugins below
   gem "jekyll-coffeescript"
   gem "jekyll-default-layout"

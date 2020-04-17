@@ -1,10 +1,3 @@
----
-bibliography: \_data/biblio.yaml
-csl: 'lib/styles/chicago-fullnote-bibliography-with-ibid.csl'
-suppress-bibliography: true
-title: 'Catetinho: trajetórias na apropriação de um monumento incomum'
----
-
 ![](https://github.com/dmcpatrimonio/arqtrad/workflows/Jekyll%20site%20CI/badge.svg?branch=master)
 
 Esta pesquisa discute os processos de musealização e apropriação social
