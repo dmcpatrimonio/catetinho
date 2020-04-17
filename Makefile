@@ -20,6 +20,7 @@ serve : build
 	bundle exec jekyll serve
 
 build : $(PAGES_OUT) _config.yml bundle
+	cp -f _config.yml docs/
 	bundle exec jekyll build
 
 docs/%.md : %.md jekyll.yaml _data/biblio.yaml
