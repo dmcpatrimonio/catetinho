@@ -25,6 +25,9 @@ build : $(PAGES_OUT) _config.yml bundle
 docs/%.md : %.md jekyll.yaml _data/biblio.yaml
 	pandoc -o $@ -d spec/jekyll.yaml $<
 
+fig/%.png : %.svg
+	inkscape -f $< -e $@ -d 96
+
 # Install and cleanup {{{1
 # ===================
 # `make install` copies various config files and hooks to the .git
