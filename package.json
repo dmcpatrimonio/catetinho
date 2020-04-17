@@ -1,5 +1,5 @@
 {
-  "name": "@dmcpatrimonio/catetinho",
+  "name": "@dmcpatrimonio",
   "version": "1.0.0",
   "description": "Catetinho",
   "main": "index.js",
@@ -8,6 +8,6 @@
   },
   "keywords": [],
   "author": "Marina M. Mennucci e Pedro P. Palazzo",
-  "license": "CC-BY",
+  "license": "CC-BY-ND",
   }
 }
