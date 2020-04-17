@@ -32,20 +32,22 @@ abstract: |
   Abstract
   --------
 
-  The abstract shall be written in the language of the manuscript, with
-  up to 200 words, with a maximum of three to five keywords. In cases
-  that the manuscript is written in English, it must present the
-  abstract and the key words in Portuguese too. Keywords must be
-  different from the terms used in the title, preferably. While the
-  manuscript stand in blind review process, any author identification
-  shall be withdrawn from the text or replaced with a generic text in
-  the form “XXXX”. It is considered as identification the information of
-  the author's name, identification of the authors, source of authorship
-  of the authors of figures or tables, citations, list of references,
-  acknowledgments, parts of the text of citing research groups and
-  institution of the place of conducting research.
+  Among the monuments of Brazilian modernist architecture, the
+  Catetinho, built in 1956 near the construction site of Brasília, is one
+  of a kind. The only extant work by Oscar Niemeyer built out of wood, it
+  was intended to be a temporary office for the President of the Republic
+  during the construction of the new capital city. This work discusses the
+  current state of conservation of the Catetinho, how its design and
+  construction techniques impact conventional wisdom on the preservation
+  of both modernist and wooden buildings, and recommended strategies to
+  protect material integrity and the intelligibility of its original
+  design. The research points out that, while the hastily detailed
+  structural system is itself a risk factor to the Catetinho's durability,
+  conservation efforts can be helped by a clear vision as to which among
+  the existing materials and techniques are essential to the building's
+  identity.
 
-  Keywords: Three to five words in English, separated by comas
+  Keywords: 1950s, Brasília, Catetinho, wood, restorations, modifications, maintenance
 description:
 keywords:
 ---
@@ -62,6 +64,9 @@ O tamanho do arquivo está restrito em 5 MB.
 
 Histórico
 =========
+
+O Catetinho
+-----------
 
 O Catetinho, também conhecido como Palácio de Tábuas,
 situa-se a cerca de 20 quilômetros ao sul da área central
@@ -125,11 +130,26 @@ quase duas décadas de incerteza oficial acerca da
 vinculação patrimonial do imóvel, pomposamente "recebido"
 pela DPHAN em 1959.
 
+Madeira na construção de Brasília
+---------------------------------
+
 Diagnóstico
 ===========
 
+Campanhas de restauro
+---------------------
+
+Estado de conservação
+---------------------
+
 Discussão
 =========
+
+Preservação do patrimônio moderno
+---------------------------------
+
+Integridade e cenografia no Catetinho
+-------------------------------------
 
 Conclusões
 ==========
@@ -159,8 +179,14 @@ pelo Iphan para a realização do inventário do Catetinho. Os autores
 agradecem, finalmente, a toda a equipe e colaboradores da empresa
 envolvidos neste projeto: Alessio Gallizio, Déborah de Oliveira, Horia
 Georgescu, Maíra Guimarães, Marília Alves, Sara Zampronha, Sarah Almeida
-e Tauana Ramthum do Amaral.
+e Tauana Amaral.
 
 Referências
 ===========
+
+::: {#refs}
+:::
+
+Notas
+=====
 
