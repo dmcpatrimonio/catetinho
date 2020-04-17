@@ -100,7 +100,7 @@ by encouraging public officials to treat the conservation of the
 Catetinho in the same way they would handle routine maintenance of any
 recent public building.
 
-![](_share/media/image1.jpeg){width="7.361111111111111in"
+![](https://www.integra.unb.br/s/cHSbfbgXNW2wAp5/preview){width="7.361111111111111in"
 height="2.5in"}
 
 Drawing a successful preservation strategy to confront these challenges
@@ -171,7 +171,7 @@ the site, less than a month later. The whole process was described by
 Niemeyer as "enthusiastic," with the construction process driven by will
 power more than anything else (Figure 2).
 
-![](_share/media/image2.jpeg){width="3.543307086614173in"
+![](https://www.integra.unb.br/s/3cq3c88E298i8CX/preview){width="3.543307086614173in"
 height="3.547244094488189in"}
 
 Architecture and context of the Catetinho
@@ -197,7 +197,7 @@ corrugated metal plates. The main floor counted only five suites and a
 large office, so that a service building with kitchen and janitor's
 quarters had to be added a couple of months after inauguration.
 
-![](_share/media/image4.jpeg){width="3.543307086614173in"
+![](https://www.integra.unb.br/s/dcodWRSxRGqQZrz/preview){width="3.543307086614173in"
 height="2.3661417322834644in"}
 
 The Catetinho is a precursor and a summary of the construction of
@@ -269,7 +269,7 @@ historic preservation may be---, but can impact decision-making in ways
 that can threaten a historic site's physical integrity and the
 authenticity of the meanings it conveys (Lira 2009, 113).
 
-![](_share/media/image5.jpeg){width="3.543307086614173in"
+![](https://www.integra.unb.br/s/nNoHjNH87pz9R2q/preview){width="3.543307086614173in"
 height="3.062992125984252in"}
 
 In Brazil, historic sites can be listed at the federal, state, or county
@@ -316,7 +316,7 @@ boards and air circulation drying out the inward surfaces.
 Previous interventions on the building
 --------------------------------------
 
-![](_share/media/image9.jpeg){width="3.543307086614173in"
+![](https://www.integra.unb.br/s/KnKG48zqijPrCzK/preview){width="3.543307086614173in"
 height="2.661417322834646in"}
 
 The makeshift nature of the materials and haste in construction (less
@@ -366,7 +366,7 @@ a memorial, but as an interpretive museum, however, required new
 infrastructure and
 furnishings:
 
-![](_share/media/image10.jpeg){width="3.543307086614173in"
+![](https://www.integra.unb.br/s/BRRKzTqiGJEBg3D/preview){width="3.543307086614173in"
 height="2.6535433070866143in"}
 
 - A very conspicuous, though architecturally compatible,
@@ -387,10 +387,10 @@ height="2.6535433070866143in"}
 Present state of preservation and conservation
 ----------------------------------------------
 
-![](_share/media/image12.jpeg){width="3.542361111111111in"
+![](https://www.integra.unb.br/s/HWedmkLHb6SwakN/preview){width="3.542361111111111in"
 height="2.361111111111111in"}
 
-![](_share/media/image13.jpeg){width="3.543307086614173in"
+![](https://www.integra.unb.br/s/7GN2Nzb6XY6LSq3/preview){width="3.543307086614173in"
 height="2.3622047244094486in"}
 
 In the five years that have elapsed since the last major intervention,
@@ -433,7 +433,7 @@ historical value on its own nevertheless. Direct sunlight and heat has
 been causing constant damage, to the point the upholstery needs
 replacing every few years.
 
-![](_share/media/image27.jpeg){width="3.5430555555555556in"
+![](https://www.integra.unb.br/s/sxeGPFapkZB8E2m/preview){width="3.5430555555555556in"
 height="2.3618055555555557in"}
 
 Conclusions

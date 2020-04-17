@@ -653,6 +653,45 @@ references:
   title-short: 'Taipa, canela-preta e concreto'
   type: book
 
+- id: 'mennucci:2018catetinho2'
+  accessed:
+    - year: 2019
+      month: 1
+      day: 21
+  author:
+    - family: Mennucci
+      given: Marina Martins
+    - family: Palazzo
+      given: Pedro P.
+  container-title: 'Building knowledge, constructing histories'
+  editor:
+    - family: Wouters
+      given: Ine
+    - family: Voorde
+      given: Stephanie Van
+      dropping-particle: de
+    - family: Bertels
+      given: Inge
+    - family: Espion
+      given: Bernard
+    - family: Jonge
+      given: Krista
+      dropping-particle: de
+    - family: Zastavni
+      given: Denis
+  ISBN: 978-0-429-44675-7
+  issued:
+    - year: 2018
+  language: English
+  page: 927–934
+  publisher: 'CRC : Balkema'
+  publisher-place: Leiden
+  source: Open WorldCat
+  title: 'Catetinho: The first presidential house in Brasilia, Brazil'
+  title-short: Catetinho
+  type: chapter
+  volume: '2'
+
 - id: 'moreira:1998brasilia'
   author:
     - family: Moreira
