@@ -33,6 +33,17 @@ suppress-bibliography: true
 title: 'Catetinho: the first presidential house in Brasília, Brazil'
 ---
 
+> This paper was presented at the 6th International Congress on
+> Construction History in Brussels, 2018. It is published as:
+>
+> Mennucci, Marina Martins, and Pedro P. Palazzo. "Catetinho: The First
+> Presidential House in Brasilia, Brazil." In *Building Knowledge,
+> Constructing Histories,* edited by Ine Wouters, Stephanie Van de
+> Voorde, Inge Bertels, Bernard Espion, Krista de Jonge, and Denis
+> Zastavni, 2:927--934. Leiden: CRC : Balkema, 2018. ISBN
+> 978-0-429-44675-7.
+> <https://www.routledge.com/Building-Knowledge-Constructing-Histories-Proceedings-of-the-6th-International/Wouters-Voorde-Bertels-Espion-Jonge-Zastavni/p/book/9781138584143>
+
 -   [Introduction](#introduction)
 -   [The Catetinho: a palace of
     planks](#the-catetinho-a-palace-of-planks)

@@ -41,7 +41,7 @@ docs/%.md : %.md jekyll.yaml _data/biblio.yaml
 #   having too many files that you don't use.
 # - virtualenv: sets up a virtual environment (but you still need to
 #   activate it from the command line).
-.PHONY : install link-template makedirs submodule_init virtualenv serve clean
+.PHONY : install link-template makedirs submodule_init virtualenv clean
 install : link-template makedirs submodule_init lib \
 	  virtualenv bundle license
 

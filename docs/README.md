@@ -1,3 +1,10 @@
+---
+bibliography: \_data/biblio.yaml
+csl: 'lib/styles/chicago-fullnote-bibliography-with-ibid.csl'
+suppress-bibliography: true
+title: 'Catetinho: trajetórias na apropriação de um monumento incomum'
+---
+
 ![](https://github.com/dmcpatrimonio/arqtrad/workflows/Jekyll%20site%20CI/badge.svg?branch=master)
 
 Esta pesquisa discute os processos de musealização e apropriação social
@@ -7,8 +14,8 @@ Nacional em 1959.
 
 Popularmente lembrado como a residência presidencial provisória de
 Brasília, o edifício padeceu de sua situação à margem das duas
-principais correntes de patrimônio cultural no Brasil dos anos 1970 e
-80. Não se enquadrava nem na monumentalidade artística convencional, do
+principais correntes de patrimônio cultural no Brasil dos anos 1970 e 80.
+Não se enquadrava nem na monumentalidade artística convencional, do
 conjunto arquitetônico pelo qual seu arquiteto, Oscar Niemeyer, é melhor
 conhecido, nem na mais recente ênfase na expressão de práticas culturais
 populares, personificada na idealizada epopeia dos *candangos*.

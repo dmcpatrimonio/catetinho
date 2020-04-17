@@ -13,7 +13,7 @@ em 1959.
 Popularmente lembrado como a residência presidencial
 provisória de Brasília, o edifício padeceu de sua situação
 à margem das duas principais correntes de patrimônio cultural
-no Brasil dos anos 1970 e 80.
+no Brasil dos anos 1970 e 80\.
 Não se enquadrava nem na monumentalidade artística
 convencional, do conjunto arquitetônico
 pelo qual seu arquiteto, Oscar Niemeyer,
