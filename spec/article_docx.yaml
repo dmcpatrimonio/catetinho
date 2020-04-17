@@ -1,5 +1,5 @@
 filters:
-- pandoc-internalrefs
+- pandoc-xnos
 - pandoc-citeproc
 fail-if-warnings       : True
 file-scope             : True
@@ -9,9 +9,6 @@ from                   : 'markdown'
 to                     : 'docx'
 table-of-contents      : False
 number-sections        : False
-csl                    : 'spec/styles/chicago-fullnote-bibliography-with-ibid.csl'
-bibliography           : 'biblio.bib'
-suppress-bibliography  : False
 resource-path:
 - .
 - fig

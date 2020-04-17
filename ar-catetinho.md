@@ -1,14 +1,20 @@
 ---
-title: "Catetinho: trajetórias na apropriação de um monumento incomum"
+title: "Catetinho: conservação de uma estrutura efêmera em madeira"
 author:
-  - name: Marina Martins Mennucci
-    affiliation: Universidade de Aveiro
-  - name: Pedro Paulo Palazzo
-    affiliation: Universidade de Brasília
-date: 2020-04-17
-csl : 'lib/styles/iso690-numeric-en.csl'
-lang: pt-BR
-suppress-bibliography: false
+  - name              : Marina Martins Mennucci
+    affiliation       : Universidade de Aveiro
+  - name              : Pedro Paulo Palazzo
+    affiliation       : Universidade de Brasília
+date                  : 2020-04-17
+csl                   : 'lib/styles/iso690-numeric-en.csl'
+lang                  : pt-BR
+suppress-bibliography : false
+xnos-cleveref         : true
+xnos-capitalise       : false
+fignos-caption-name   : 'Figura'
+tablenos-caption-name : 'Tabela'
+xnos-caption-separator: period
+xnos-number-by-section: false
 abstract: |
   Resumo
   ------
@@ -52,9 +58,6 @@ description:
 keywords:
 ---
 
-Introdução
-==========
-
 Este documento apresenta as instruções para formatação de artigos a
 serem submetidos para a **ArquiteturaRevista**, com o fluxo contínuo para
 submissões de trabalhos inéditos. O texto completo, incluindo tabelas,
@@ -62,8 +65,14 @@ elementos gráficos, notas e referências, deverá ter extensão entre 4.000
 e 8.000 palavras, com o máximo de 22 páginas com o máximo de 22 páginas.
 O tamanho do arquivo está restrito em 5 MB.
 
-Histórico
-=========
+Introdução
+==========
+
+- Descompasso valores / resiliência
+- Qual integridade preservar?
+
+Contexto
+========
 
 O Catetinho
 -----------
