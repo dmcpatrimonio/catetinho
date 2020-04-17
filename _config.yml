@@ -28,12 +28,7 @@ minima:
 
 # Build settings {{{1
 source          : docs/
-permalink       : pretty
 markdown        : kramdown
-kramdown:
-  auto_ids      : true
-  header_offset : 1
-  transliterated_header_ids: true
 plugins:
   - jekyll-feed
   - jekyll-sitemap
@@ -47,15 +42,19 @@ plugins:
   - jekyll-optional-front-matter
   - jekyll-paginate
   - jekyll-readme-index
-  - jekyll-relative-links
   - jekyll-titles-from-headings
-
+  - jekyll-relative-links
+permalink         : pretty
+kramdown:
+  auto_ids        : true
+  header_offset   : 1
+  transliterated_header_ids: true
+relative_links:
+  enabled         : true
+  collections     : true
 readme_index:
   enabled         : true
   remove_originals: true
   with_frontmatter: true
-
-google_analytics:
-exclude:
 
 # vim: set foldmethod=marker :
