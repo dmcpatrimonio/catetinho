@@ -23,6 +23,9 @@ build : $(PAGES_OUT) _config.yml bundle
 	cp -f _config.yml docs/
 	bundle exec jekyll build
 
+_book/%.docx : %.md article_docx.yaml _data/biblio.yaml
+	pandoc -o $@ -d spec/article_docx.yaml $<
+
 docs/%.md : %.md jekyll.yaml _data/biblio.yaml
 	pandoc -o $@ -d spec/jekyll.yaml $<
 
