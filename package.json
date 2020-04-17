@@ -1,0 +1,13 @@
+{
+  "name": "@dmcpatrimonio/catetinho",
+  "version": "1.0.0",
+  "description": "Catetinho",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Marina M. Mennucci e Pedro P. Palazzo",
+  "license": "CC-BY",
+  }
+}
