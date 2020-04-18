@@ -109,7 +109,8 @@ by encouraging public officials to treat the conservation of the
 Catetinho in the same way they would handle routine maintenance of any
 recent public building.
 
-![](https://www.integra.unb.br/s/cHSbfbgXNW2wAp5/preview.jpg)
+![Catetinho, exterior view. P.P. Palazzo,
+2016](https://www.integra.unb.br/s/cHSbfbgXNW2wAp5/preview)
 
 Drawing a successful preservation strategy to confront these challenges
 requires understanding the Catetinho's history and the context of modern
@@ -178,7 +179,9 @@ the site, less than a month later. The whole process was described by
 Niemeyer as "enthusiastic," with the construction process driven by will
 power more than anything else (Figure 2).
 
-![](https://www.integra.unb.br/s/3cq3c88E298i8CX/preview.jpg)
+![The Catetinho under construction on the last week of October, 1956.
+Federal District Public Archives (ARPDF), Novacap collection D4.4.b2
+514](https://www.integra.unb.br/s/3cq3c88E298i8CX/preview)
 
 ### Architecture and context of the Catetinho
 
@@ -202,7 +205,8 @@ corrugated metal plates. The main floor counted only five suites and a
 large office, so that a service building with kitchen and janitor's
 quarters had to be added a couple of months after inauguration.
 
-![](https://www.integra.unb.br/s/dcodWRSxRGqQZrz/preview.jpg)
+![Pilotis of the Catetinho. P.P. Palazzo,
+2016](https://www.integra.unb.br/s/dcodWRSxRGqQZrz/preview)
 
 The Catetinho is a precursor and a summary of the construction of
 Brasília itself, both in its architecture and in its building process.
@@ -272,7 +276,9 @@ historic preservation may be---, but can impact decision-making in ways
 that can threaten a historic site's physical integrity and the
 authenticity of the meanings it conveys (Lira 2009, 113).
 
-![](https://www.integra.unb.br/s/nNoHjNH87pz9R2q/preview.jpg)
+![Side view and detail of clapboard bracing at the Catetinho. M.M.
+Mennucci,
+2017](https://www.integra.unb.br/s/nNoHjNH87pz9R2q/preview)
 
 In Brazil, historic sites can be listed at the federal, state, or county
 level. Since their rulings and technical specifications are binding,
@@ -317,7 +323,10 @@ boards and air circulation drying out the inward surfaces.
 
 ### Previous interventions on the building
 
-![](https://www.integra.unb.br/s/KnKG48zqijPrCzK/preview.jpg)
+![Replacement of the interior sheathing in progress, showing roof
+structure, first half of February, 2012. Federal District Historic
+Preservation Office (Supac) digital
+archive](https://www.integra.unb.br/s/KnKG48zqijPrCzK/preview)
 
 The makeshift nature of the materials and haste in construction (less
 than three weeks) meant that pathologies soon appeared, and the building
@@ -365,7 +374,9 @@ provisional housing and workplace. Its opening to the public not only as
 a memorial, but as an interpretive museum, however, required new
 infrastructure and furnishings:
 
-![](https://www.integra.unb.br/s/BRRKzTqiGJEBg3D/preview.jpg)
+![Scraping and repainting in the Catetinho veranda, first half of
+February, 2012. Supac digital
+archive](https://www.integra.unb.br/s/BRRKzTqiGJEBg3D/preview)
 
 -   A very conspicuous, though architecturally compatible,
     administrator's house and cafeteria were erected, probably in 1972
@@ -384,9 +395,13 @@ infrastructure and furnishings:
 
 ### Present state of preservation and conservation
 
-![](https://www.integra.unb.br/s/HWedmkLHb6SwakN/preview.jpg)
+![Ceiling on the ground floor of the Catetinho showing deterioration.
+P.P. Palazzo,
+2017](https://www.integra.unb.br/s/HWedmkLHb6SwakN/preview)
 
-![](https://www.integra.unb.br/s/7GN2Nzb6XY6LSq3/preview.jpg)
+![Veranda floor and stairs showing deteriorated paint coat in exposed
+areas. M.M. Mennucci,
+2017](https://www.integra.unb.br/s/7GN2Nzb6XY6LSq3/preview)
 
 In the five years that have elapsed since the last major intervention,
 the Catetinho has received minimal physical conservation, and already
@@ -428,7 +443,10 @@ historical value on its own nevertheless. Direct sunlight and heat has
 been causing constant damage, to the point the upholstery needs
 replacing every few years.
 
-![](https://www.integra.unb.br/s/sxeGPFapkZB8E2m/preview.jpg)
+![Posts showing damage by rot, loss of supporting section creating a
+habitat for insects and arachnids, and cracking due to buckling. M.M.
+Mennucci,
+2017](https://www.integra.unb.br/s/sxeGPFapkZB8E2m/preview)
 
 Conclusions
 -----------
@@ -503,9 +521,10 @@ Marília Alves, Sarah Almeida, and Tauana Ramthum do Amaral.
 References
 ----------
 
-Bierrenbach, Ana Carolina de Souza, and Eduardo Pierrotti Rossetti.
-2014. "Lina Bo Bardi reloaded: vestígios, memórias, latências." *Risco:
-Revista de Pesquisa em Arquitetura e Urbanismo*, 12 07: 74--86.
+Bierrenbach, Ana Carolina de Souza, and Eduardo Pierrotti
+Rossetti. 2014. "Lina Bo Bardi reloaded: vestígios, memórias,
+latências." *Risco: Revista de Pesquisa em Arquitetura e Urbanismo*, 12
+07: 74--86.
 
 Brito, Leandro Dussarrat. 2014. *Patologia em Estruturas de Madeira:
 Metodologia de Inspeção e Técnicas de reabilitação.* Ph.D. dissertation.

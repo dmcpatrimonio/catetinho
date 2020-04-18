@@ -62,8 +62,8 @@ Este documento apresenta as instruções para formatação de artigos a
 serem submetidos para a **ArquiteturaRevista**, com o fluxo contínuo para
 submissões de trabalhos inéditos. O texto completo, incluindo tabelas,
 elementos gráficos, notas e referências, deverá ter extensão entre 4.000
-e 8.000 palavras, com o máximo de 22 páginas com o máximo de 22 páginas.
-O tamanho do arquivo está restrito em 5 MB.
+e 8.000 palavras, com o máximo de 22 páginas. O tamanho do arquivo está
+restrito em 5 MB.
 
 Introdução
 ==========
