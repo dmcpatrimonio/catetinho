@@ -68,13 +68,30 @@ restrito em 5 MB.
 Introdução
 ==========
 
+A preservação do patrimônio moderno suscita controvérsias inerentes à
+atribuição de valores culturais à produção recente, tangenciando os
+problemas abordados pela historiografia da arquitetura modernista e da
+técnica moderna. No Brasil, as arraigadas identidades profissionais e
+políticas dependentes do movimento Moderno têm sido componentes cruciais
+nessa controvertida formulação de valores patrimoniais. Essas
+identidades são em grande parte articuladas em torno do racionalismo
+carioca de Oscar Niemeyer, da mitologia dos "anos dourados" e da
+"epopeia" da construção de Brasília.
+
+
 - Descompasso valores / resiliência
 - Qual integridade preservar?
 - Técnicas inadequadas vs outra importância
 - Aparência prístina vs pátina
 
+As vicissitudes da preservação do Catetinho sinalizam as contradições
+inerentes à patrimonialização da arquitetura moderna.
+
 O Catetinho
 ===========
+
+Madeira na construção de Brasília
+---------------------------------
 
 Histórico
 ---------
@@ -140,9 +157,6 @@ submetido:
 quase duas décadas de incerteza oficial acerca da
 vinculação patrimonial do imóvel, pomposamente "recebido"
 pela DPHAN em 1959.
-
-Madeira na construção de Brasília
----------------------------------
 
 Diagnóstico
 ===========
