@@ -16,12 +16,14 @@ SHARE = ~/dmcp/arqtrad/arqtrad
 PAGES_SRC     = $(wildcard *.md)
 PAGES_OUT    := $(patsubst %,docs/%, $(PAGES_SRC))
 
-serve : build
+serve : bundle
 	bundle exec jekyll serve
 
-build : $(PAGES_OUT) _config.yml bundle
-	cp -f _config.yml docs/
+build : $(PAGES_OUT) docs/_config.yml bundle
 	bundle exec jekyll build
+
+_docs/config.yml : _config.yml
+	cat _config.yml > docs/_config.yml
 
 _book/%.docx : %.md article_docx.yaml _data/biblio.yaml
 	pandoc -o $@ -d spec/article_docx.yaml $<
@@ -121,4 +123,4 @@ license :
 clean :
 	-rm -rf _site *.tmp
 
-# vim: set foldmethod=marker tw=72 :
+# vim: set foldmethod=marker tw=72 shiftwidth=2 tabstop=2 :
