@@ -298,6 +298,117 @@ references:
   title: 'Estudo urbano e ambiental: Park Way'
   type: book
 
+- id: 'comas:2010arquitetura11'
+  accessed:
+    - year: 2020
+      month: 4
+      day: 22
+  author:
+    - family: Comas
+      given: Carlos Eduardo Dias
+  container-title: Arquitextos
+  ISSN: 1809-6298
+  issue: '123'
+  issued:
+    - year: 2010
+      month: 8
+  language: pt
+  page: '00'
+  title: 'Arquitetura moderna, estilo campestre'
+  type: article-journal
+  URL: 'https://www.vitruvius.com.br/revistas/read/arquitextos/11.123/3513'
+  volume: '11'
+
+- id: 'comas:2010passado'
+  accessed:
+    - year: 2013
+      month: 10
+      day: 2
+  author:
+    - family: Comas
+      given: Carlos Eduardo Dias
+  call-number: 72.035.9(81)
+  container-title: Arquitextos
+  issue: '00'
+  issued:
+    - year: 2010
+      month: 7
+  language: pt
+  title: >-
+    O passado mora ao lado. Lúcio Costa e o projeto do Grand Hotel de Ouro
+    Preto, 1938/40
+  title-short: O passado mora ao lado
+  type: article-journal
+  URL: 'http://www.vitruvius.com.br/revistas/read/arquitextos/11.122/3486'
+  volume: '122'
+
+- id: 'correia:2003modernismo'
+  accessed:
+    - year: 2020
+      month: 4
+      day: 22
+  author:
+    - family: Correia
+      given: Telma de Barros
+  container-title: >-
+    Pós. Revista do Programa de Pós-Graduação em Arquitetura e Urbanismo da
+    FAUUSP
+  container-title-short: Pós FAUUSP
+  DOI: 10.11606/issn.2317-2762.v0i14p80-93
+  ISSN: '2317-2762, 1518-9554'
+  issue: '14'
+  issued:
+    - year: 2003
+      month: 12
+      day: 1
+  language: pt
+  page: '80'
+  source: DOI.org (Crossref)
+  title: 'O modernismo e o núcleo fabril: o anteprojeto de Lúcio Costa para monlevade'
+  title-short: O modernismo e o núcleo fabril
+  type: article-journal
+  URL: 'http://www.revistas.usp.br/posfau/article/view/43359'
+
+- id: 'costa:1936cidade'
+  accessed:
+    - year: 2020
+      month: 4
+      day: 22
+  author:
+    - family: Costa
+      given: Lucio
+  issued:
+    - year: 1936
+  language: pt
+  medium: Projeto de urbanismo e arquitetura
+  title: Cidade Universitária
+  type: graphic
+  URL: 'http://www.jobim.org/lucio/handle/2010.3/105'
+
+- id: 'costa:1941arquitetura'
+  author:
+    - family: Costa
+      given: Lúcio
+  container-title: Revista do Serviço do Patrimonio Historico e Artistico Nacional
+  issued:
+    - year: 1941
+  page: 9--104
+  title: A arquitetura dos jesuítas no Brasil
+  type: article-journal
+  volume: '5'
+
+- id: 'costa:1957relatorio'
+  author:
+    - family: Costa
+      given: Lucio
+  container-title: Módulo
+  issue: '8'
+  issued:
+    - year: 1957
+  page: 29–48
+  title: Relatório do plano pilôto de Brasília
+  type: article-journal
+
 - id: 'costa:2014relatorio'
   author:
     - family: Costa
@@ -489,6 +600,19 @@ references:
   title-short: Processo de Tombamento n.º 0594–T–59
   type: book
 
+- id: 'iphan:2017catetinho'
+  author:
+    - family: Iphan
+      given: Instituto do Patrimônio Histórico e Artistico Nacional
+  issued:
+    - year: 2017
+  language: pt
+  number-of-volumes: '3'
+  publisher: Superintendência do Iphan no Distrito Federal
+  publisher-place: Brasília
+  title: Inventário do Catetinho
+  type: book
+
 - id: 'jankowsky:1990fundamentos'
   accessed:
     - year: 2017
@@ -590,6 +714,18 @@ references:
   title: 'Conservation of historic timber structures: an ecological approach'
   title-short: Conservation of historic timber structures
   type: book
+
+- id: 'lecorbusier:1929architecture'
+  author:
+    - literal: Le Corbusier
+  container-title: Architectural Record
+  issue: '8'
+  issued:
+    - year: 1929
+  page: 123-128
+  title: 'Architecture, the Expression of the Materials and Methods of Our Times'
+  type: article-journal
+  volume: '117'
 
 - id: 'lepage:1986manual'
   abstract: Trata do uso racional dos nossos recursos florestais.

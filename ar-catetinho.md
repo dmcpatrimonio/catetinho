@@ -11,8 +11,8 @@ lang                  : pt-BR
 suppress-bibliography : false
 xnos-cleveref         : true
 xnos-capitalise       : false
-fignos-caption-name   : 'Figura'
-tablenos-caption-name : 'Tabela'
+fignos-caption-name   : 'figura'
+tablenos-caption-name : 'tabela'
 xnos-caption-separator: period
 xnos-number-by-section: false
 abstract: |
@@ -79,18 +79,21 @@ esses mitos fundadores do patrimônio moderno persistem, no entanto, como
 valores sub-repticiamente reverenciados em certas obras canônicas do
 racionalismo carioca.
 
-O Catetinho ou "palácio de Tábuas", edificação provisória realizada por
-Oscar Niemeyer em 1956 no contexto da construção de Brasília, é uma das
-mais peculiares dentre essas obras canônicas. Concebido para hospedar o
-presidente Juscelino Kubitschek em suas visitas ao canteiro da nova
-capital --- o nome Catetinho se refere ao palácio do Catete, residência
-e despacho presidencial no Rio de Janeiro ---, foi tombado como
-patrimônio nacional  em caráter de memorial e a pedido do próprio JK,
-logo após a inauguração do palácio da Alvorada, a residência
-presidencial definitiva. Desde então, sua conservação tem conhecido
-altos e baixos, com repetidas intervenções tencionando a repristinar o
-seu aspecto visível, ao custo da quase completa destruição da sua
-materialidade originária.
+O Catetinho ou "palácio de Tábuas" (@fig:intro), edificação provisória
+realizada por Oscar Niemeyer em 1956 no contexto da construção de
+Brasília, é uma das mais peculiares dentre essas obras canônicas.
+Concebido para hospedar o presidente Juscelino Kubitschek em suas
+visitas ao canteiro da nova capital --- o nome Catetinho se refere ao
+palácio do Catete, residência e despacho presidencial no Rio de Janeiro
+---, foi tombado como patrimônio nacional  em caráter de memorial e a
+pedido do próprio JK, logo após a inauguração do palácio da Alvorada, a
+residência presidencial definitiva. Desde então, sua conservação tem
+conhecido altos e baixos, com repetidas intervenções tencionando a
+repristinar o seu aspecto visível, ao custo da quase completa destruição
+da sua materialidade originária.
+
+![Catetinho, exterior. Foto: P.P. Palazzo, 2016 @iphan:2017catetinho
+](https://www.integra.unb.br/s/cHSbfbgXNW2wAp5/preview){#fig:intro}
 
 Sustentamos neste artigo que os ciclos perversos de deterioração e
 restauro do Catetinho não são meros acidentes de alguma má gestão ou da
@@ -135,37 +138,204 @@ conservação de bens culturais, mas também colocam em crise as
 particularidades frequentemente invocadas na preservação do patrimônio
 moderno.
 
-O Catetinho
-===========
+O Catetinho e o ideal modernista de espontaneidade
+==================================================
 
-Madeira na construção de Brasília
----------------------------------
+Uma obra pioneira
+-----------------
 
-Histórico
----------
+O Catetinho, também conhecido como Palácio de Tábuas, e oficialmente
+designado Residência Presidencial 1 (RP--1), se situa a cerca de 20
+quilômetros ao sul da área central da capital federal. A sua construção
+é decidida em outubro de 1956 --- antes mesmo da abertura do concurso
+para o plano urbanístico de Brasília --- num encontro informal de
+executivos e colaboradores da recém-criada Companhia Urbanizadora da
+Nova Capital do Brasil (Novacap), dentre os quais o arquiteto Oscar
+Niemeyer, os engenheiros Juca Chaves e Roberto Magalhães Penna, e o
+jornalista César Prates, além do poeta Dilermando Reis, amigo pessoal de
+JK [@prates:1983catetinho, 23]. O Catetinho é a primeira edificação
+diretamente concebida pela Novacap na campanha de construção de
+Brasília. Isto lhe confere um *status* pioneiro nas crônicas dessa
+campanha, devidamente explorado por Prates na sua condição de diretor de
+relações públicas da Novacap e lembrado por Rodrigo Mello Franco de
+Andrade por ocasião do tombamento do Catetinho [@iphan:1959catetinho,
+fl. 19].
 
-O Catetinho, também conhecido como Palácio de Tábuas,
-situa-se a cerca de 20 quilômetros ao sul da área central
-da capital federal.
-Foi construído entre outubro e novembro de 1956,
-segundo projeto de Oscar Niemeyer, para abrigar não apenas
-o Presidente da República em suas visitas ao canteiro
-de Brasília, mas também como residência dos executivos
-da Companhia Urbanizadora da Nova Capital (Novacap),
-Israel Pinheiro, Bernardo Sayão e Ernesto Silva.
-Em junho de 1958, com a inauguração do Palácio da Alvorada,
-Juscelino Kubitschek deixou de frequentar o Catetinho,
-mas no mesmo ano solicitou
-à Diretoria do Patrimônio Histórico e Artístico Nacional (DPHAN)
-providências para a preservação da singela residência provisória
-enquanto marco do início da construção de Brasília.
-Após uma década e meia de incerteza quanto à responsabilidade
-sobre a manutenção e preservação do Catetinho,
-a gleba com o edifício foi transferida em 1976 da Novacap
-para a Secretaria de Cultura e Esporte do Distrito Federal (SEC--DF).
-O Catetinho foi, então, aberto à visitação pública como museu
-memorial dos primeiros anos da construção de Brasília e
-de seus quatro hóspedes ilustres.
+Na história de Brasília, autoimagem por excelência do movimento Moderno
+brasileiro, o caráter pioneiro do Catetinho se torna um suporte
+privilegiado para a elaboração de narrativas heroicas e mitos
+fundadores, geralmente amparados em anedotas de escasso amparo
+documental e numa compreensão lacunar do próprio processo construtivo ou
+da utilização do palácio de Tábuas. Destacamos o valor arquitetônico
+atribuído ao caráter pretensamente espontâneo, quase irrefletido, do
+projeto e da construção do palácio de Tábuas, bem como a sua associação
+com o mito de JK na sua *persona* de "presidente bossa nova".
+
+O projeto de Niemeyer para a edificação é, de fato, sumaríssimo: uma
+anedota pretende que o arquiteto o tenha elaborado numa mesa de bar
+[@guimaraes:2014construcao]. A obra emprega materiais recolhidos junto à
+Fertisa, empresa pertencente a Magalhães Penna, em Araxá: tijolos,
+ladrilhos, telhas onduladas, cimento, tinta, tábuas e tarugos em madeira
+de ipê --- essência nativa do Brasil central, usada à época para todo
+tipo de construção de pequeno porte, inclusive estruturas provisórias e
+formas ---, além de equipamentos sanitários e elétricos. A logística de
+remessa dos materiais, num único transporte por caminhão, desmente o
+conceito de um projeto meramente esboçado: de fato, um conjunto de
+desenhos técnicos será conservado até 1996 junto ao processo de
+tombamento do Catetinho, data em que a íntegra do processo é extraviada
+[@iphan:1959catetinho].
+
+O partido do Catetinho consiste numa releitura em madeira dos edifícios
+em lâmina esbelta sobre pilotis, paradigmáticos da arquitetura do
+racionalismo carioca desde a década de 1930. A distribuição rígida dos
+seis aposentos e bar no primeiro pavimento, ocupando toda a extensão de
+um mesmo lado da varanda--corredor, entre duas empenas laterais cegas e
+coberta com uma meia-água, retoma o partido já empregado por Niemeyer no
+Grande hotel Ouro Preto, em 1938 (@fig:ghop).
+
+![Oscar Niemeyer. Grande hotel Ouro Preto, 1938. Foto: Pedro P. Palazzo,
+2007](){#fig:ghop}
+
+Niemeyer antecipa assim, no Catetinho, uma solução que será pouco depois
+consagrada nos blocos habitacionais das mais antigas superquadras de
+Brasília: o corredor comum posicionado ao longo de uma das fachadas, com
+a escada formando um volume externo à lâmina principal (ver @fig:intro).
+Entre um e outros, uma série de edifícios provisórios concebidos por
+Niemeyer nos canteiros de obras de Brasília --- do primeiro terminal do
+aeroporto a escolas primárias --- constitui um ciclo de variantes em
+torno do partido arquitetônico do Catetinho [@iphan:2017catetinho, 37].
+
+Rústico e espontâneo na arquitetura moderna brasileira
+------------------------------------------------------
+
+A obra é executada entre outubro e novembro de 1956 (@fig:out56).
+Segundo Niemeyer [@niemeyer:2006minha], o espírito da implantação do
+Catetinho é "entusiástico", conduzido mais por um ímpeto do momento e
+pela força de vontade dos envolvidos do que por um efetivo planejamento.
+A simplicidade do projeto e a rapidez de construção --- proverbiais "dez
+dias" registrados na placa comemorativa do tombamento do Catetinho , mas
+na realidade entre duas e três semanas [@iphan:2017catetinho, 26] ---
+participam de uma narrativa recorrente no modernismo brasileiro: a de
+que a forma arquitetônica "correta" surge de um ímpeto criativo
+espontâneo e irrefletido. Deve-se a Lucio Costa a primeira formulação
+discursiva dessa teoria, no influente artigo Documentação necessária
+[@costa:2007documentacao], e também a ele a sua expressão mais famosa,
+nas linhas de abertura do seu *Relatório do plano pilôto de Brasília*
+vencedor do concurso para o projeto da nova capital:
+
+> Não pretendia competir e, na verdade, não concorro --- apenas me
+> desvencilho de uma solução possível, que não foi procurada mas surgiu,
+> por assim dizer, já pronta. [@costa:1957relatorio, 33]
+
+![Catetinho em construção na última semana de outubro de 1956.
+Fotógrafo desconhecido. Arquivo Público do Distrito Federal (ArPDF),
+acervo Novacap D4.4.b2 514
+](https://www.integra.unb.br/s/3cq3c88E298i8CX/preview){#fig:out56}
+
+A ética de afetar espontaneidade vem, para Costa, associada desde o
+início a uma estética da materialidade rústica. Da apropriação da
+técnica vernácula como um *ready-made* no projeto não executado para a
+vila operária da Belgo Mineira em Monlevade [@correia:2003modernismo] à
+"composição pitoresca de estilo campestre" no Park hotel São Clemente,
+em Nova Friburgo [@comas:2010arquitetura11], Costa estabelece um
+influente paradigma que postula a arquitetura moderna enquanto *cosa
+mentale* abstrata, aplicável a qualquer sistema construtivo, mais do que
+expressão dos "materiais e métodos do nosso tempo"
+[@lecorbusier:1929architecture]. O rústico fica, então, curiosamente
+associado ao pioneirismo do moderno. Não é por acaso que Rodrigo Mello
+Franco de Andrade, discursando no ato de recebimento do Catetinho como
+patrimônio nacional, em 1959, identifica o palácio de Tábuas com "a
+origem rústica e quase humilde da magestade [sic] da nova capital"
+[@iphan:1959catetinho, fl. 19].
+
+Telma de Barros Correia enxerga na plasticidade rústica favorecida por
+Costa uma referência intencional ao arquétipo do colonizador português
+"maleável" em Gilberto Freyre [@correia:2003modernismo, 84]. Podemos
+ampliar essa associação, tendo o ideal modernista de espontaneidade como
+contrapartida ao conceito freyreano de "homem cordial", ou seja, que se
+rege pela emoção irrefletida [@freyre:2003casagrande]. O ideal de
+espontaneidade da arquitetura racionalista carioca se rebate, por sua
+vez, na estética do improviso na bossa nova, estilo musical por
+excelência dos "anos dourados". A aproximação entre JK, a bossa nova e o
+Catetinho será um tema desenvolvido à exaustão na literatura cronística
+sobre o palácio de Tábuas.
+
+Do palácio da bossa nova ao relicário de JK
+===========================================
+
+Cristalização da narrativa oficial
+----------------------------------
+
+Se JK é apresentado como o moço interiorano, filho de Diamantina, e ao
+mesmo tempo como o "presidente bossa nova", César Prates, diretor de
+relações públicas da Novacap, trata de associar o Catetinho a essa
+dúplice *persona* presidencial, fazendo do palácio de Tábuas o recanto
+das serestas e da bossa nova. Pouco importa se, na realidade, JK
+raramente pernoita no Catetinho [@prates:1983catetinho, 43], o qual
+termina por servir como moradia e local de trabalho para os próprios
+executivos da Novacap. Prates oficializa a narrativa presidencial graças
+às visitas ao Catetinho do seresteiro Dilermando Reis e dos ícones da
+bossa nova, Tom Jobim e Vinicius de Moraes [@francisco:2004catetinho,
+20]. A canção *Água de beber*, presumivelmente inspirada no olho d'água
+vizinho ao palácio de Tábuas, imortaliza essa narrativa. 
+
+Em junho de 1958, com a inauguração do Palácio da Alvorada, JK deixa de
+frequentar o Catetinho (@fig:placa), mas no mesmo ano solicita à então
+Diretoria do Patrimônio Histórico e Artístico Nacional (DPHAN)
+providências para a preservação da singela residência provisória. O
+pedigree do recado presidencial não é de se desprezar; Niemeyer
+celebrará, em relato autobiográfico tardio, a "intuição e experiência"
+de JK em assuntos arquitetônicos [@niemeyer:2006minha, 19].
+
+![Inauguração por JK da placa comemorativa do Catetinho, junho de 1958
+](){#fig:placa}
+
+Diligente e concisamente, a DPHAN procede ao tombamento do palácio de
+Tábuas em julho de 1959 sem tecer justificativas acerca dos valores
+históricos ou artísticos a serem preservados. Apenas o discurso de
+Rodrigo Mello Franco, já citado, oferece alguns indícios de como essa
+construção é compreendida no momento da sua proteção inicial. Proferido
+à sombra da estátua de JK por Israel Pedrosa recém instalada diante do
+Catetinho, o discurso de Rodrigo Mello Franco explicita verbalmente o
+que a estátua representa em silêncio:
+
+> O pensamento que o inspirou foi de preservar, para os brasileiros de
+> amanhã, a primeira edificação em que o Chefe do Estado começou a
+> exercer, no sítio escolhido para a nova capital do país, as
+> atribuições do Poder Executivo da União [...], erigindo-a como um
+> testemunho ciclópico de confiança no futuro da pátria.
+> [@iphan:1959catetinho, fl. 19]
+
+O Catetinho se afigura a partir de 1959, portanto, como memorial
+hagiográfico da empreitada pioneira de JK no planalto Central, em outras
+palavras como uma espécie de cenotáfio do nascimento de Brasília e da
+breve passagem do presidente pelo posto avançado da sua construção.
+Inscrito no livro do tombo histórico, não há menção às suas
+características arquitetônicas ou à sua importância enquanto vestígio
+material --- por oposição ao seu valor simbólico e político. Mesmo
+assim, o parecerista do processo, Paulo Thedim Barreto, e Rodrigo Mello
+Franco sugerem que a conservação da matéria construtiva original do
+Catetinho é indissociável da preservação de seu valor alusivo
+[@iphan:1959catetinho, fl. 12].
+
+Não há, em torno ao tombamento, previsão de qualquer uso para o imóvel,
+que até 1976 é apenas curado por um zelador. O caráter comemorativo do
+Catetinho é estático: uma placa em bronze, uma estátua de JK, o próprio
+edifício em seu sítio original. Enquanto instantâneo do "pré-natal" de
+Brasília, o Catetinho haverá de permanecer imobilizado num eterno dia
+1959, ao passo que a vida cívica acontecerá tão somente no coração da
+cidade que o palácio de Tábuas antecede.
+
+Esquecimento --- revisar ou eliminar?
+------------
+
+Após uma década e
+meia de incerteza quanto à responsabilidade sobre a manutenção e
+preservação do Catetinho, a gleba com o edifício foi transferida em 1976
+da Novacap para a Secretaria de Cultura e Esporte do Distrito Federal
+(SEC--DF). O Catetinho foi, então, aberto à visitação pública como museu
+memorial dos primeiros anos da construção de Brasília e de seus quatro
+hóspedes ilustres.
 
 Apesar da distinção de ser o primeiro bem tombado e
 a primeira obra de Niemeyer na Capital da República, 
@@ -206,14 +376,27 @@ quase duas décadas de incerteza oficial acerca da
 vinculação patrimonial do imóvel, pomposamente "recebido"
 pela DPHAN em 1959.
 
-Diagnóstico
-===========
+Conservar o que não se sabe como preservar
+==========================================
 
-Campanhas de restauro
----------------------
+Patologias de uma estrutura em madeira
+--------------------------------------
 
-Estado de conservação
----------------------
+Os esteios realizados com tarugos aparafusados são diretamente
+engastados no radier, sobre o qual se assenta, também, um pequeno
+depósito em alvenaria de tijolos, único contraventamento originário da
+edificação. As vigas, também em tarugos aparafusados, formando perfis
+irregulares, são fixadas excentricamente sobre os esteios (@fig:pilotis)
+e sustentam diretamente o assoalho de tábuas. A cobertura é uma simples
+retícula de ripas e caibros bastante espaçados entre si, pousando
+sobre as paredes em tábuas do pavimento superior.
+
+![Pilotis do Catetinho. Foto: P.P. Palazzo, 2016
+](https://www.integra.unb.br/s/dcodWRSxRGqQZrz/preview){#fig:pilotis}
+
+Restauro ou reconstrução
+------------------------
+
 
 Discussão
 =========
