@@ -22,7 +22,7 @@ collections:
 # Template settings {{{1
 theme           : minima
 minima:
-  date_format   : "%e %b %y"
+  date_format   : "%e %B %Y"
   social_links:
     github      : https://github.com/dmcpatrimonio/catetinho
 

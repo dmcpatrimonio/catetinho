@@ -20,7 +20,7 @@ abstract: |
   conservation efforts can be helped by a clear vision as to which among
   the existing materials and techniques are essential to the building's
   identity.
-Keywords: [1950s, Brasília, Catetinho, wood, restorations, modifications, maintenance]
+keywords: [1950s, Brasília, Catetinho, wood, restorations, modifications, maintenance]
 ---
 
 > This paper was presented at the 6th International Congress on

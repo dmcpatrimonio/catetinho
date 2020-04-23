@@ -1,4 +1,4 @@
-to: html
+to        : html
 standalone: true
 template  : 'lib/default.jekyll'
 filters:
