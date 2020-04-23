@@ -13,6 +13,7 @@ lang            : pt
 # Content settings {{{1
 header_pages:
   6icch-mencfp.md
+  ar-catetinho.md
 
 collections:
   biblio:
