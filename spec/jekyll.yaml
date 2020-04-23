@@ -1,15 +1,16 @@
-to                : markdown-citations
-standalone        : true
-bibliography      : '_data/biblio.yaml'
-csl               : 'lib/styles/chicago-fullnote-bibliography-with-ibid.csl'
-fail-if-warnings  : true
-file-scope        : true
-email-obfuscation : references
-columns           : 72 # The default
-reference-location: 'block'
+to        : html
+standalone: true
+template  : 'lib/default.jekyll'
 filters:
 - pandoc-xnos
 - pandoc-citeproc
+bibliography            : '_data/biblio.yaml'
+csl                     : 'lib/styles/chicago-fullnote-bibliography-with-ibid.csl'
+fail-if-warnings        : true
+file-scope              : true
+default-image-extension : '.jpg'
+email-obfuscation       : references
+shift-heading-level-by  : 1
 resource-path:
 - .
 - fig

@@ -1,3 +1,7 @@
+---
+title: Fragmentos
+---
+
 Essa concepção unitária do patrimônio nacional decorria
 justamente da formação de um pendente entre o acervo colonial
 e a produção moderna,

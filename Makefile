@@ -16,15 +16,14 @@ SHARE = ~/dmcp/arqtrad/arqtrad
 PAGES_SRC     = $(wildcard *.md)
 PAGES_OUT    := $(patsubst %,docs/%, $(PAGES_SRC))
 
-serve : bundle
+serve : build bundle
 	bundle exec jekyll serve
 
-build : $(PAGES_OUT) docs/_config.yml bundle
+build : $(PAGES_OUT) _config.yml bundle
+	cp -f _config.yml docs/
 	bundle exec jekyll build
 
-_docs/config.yml : _config.yml
-	cat _config.yml > docs/_config.yml
-
+# Genérico, restringir conforme aplicável
 _book/%.docx : %.md article_docx.yaml _data/biblio.yaml
 	pandoc -o $@ -d spec/article_docx.yaml $<
 
