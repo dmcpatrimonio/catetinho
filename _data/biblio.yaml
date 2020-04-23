@@ -409,6 +409,31 @@ references:
   title: Relatório do plano pilôto de Brasília
   type: article-journal
 
+- id: 'costa:2007arquitetura'
+  author:
+    - family: Costa
+      given: Lucio
+  issued:
+    - year: 2007
+  publisher: Editora UniRitter
+  publisher-place: Porto Alegre
+  title: Sôbre arquitetura
+  type: book
+
+- id: 'costa:2007documentacao'
+  author:
+    - family: Costa
+      given: Lucio
+  container-title: Sôbre arquitetura
+  issued:
+    - year: 2007
+  language: pt
+  page: 86-94
+  publisher: Editora UniRitter
+  publisher-place: Porto Alegre
+  title: Documentação necessária
+  type: chapter
+
 - id: 'costa:2014relatorio'
   author:
     - family: Costa
@@ -543,6 +568,24 @@ references:
     The masters and the slaves: a study in the development of Brazilian
     civilization
   title-short: The masters and the slaves
+  type: book
+
+- id: 'freyre:2003casagrande'
+  author:
+    - family: Freyre
+      given: Gilberto
+  edition: '48'
+  ISBN: 978-85-260-0869-4
+  issued:
+    - year: 2003
+  language: Portuguese
+  publisher: Global Editora
+  publisher-place: São Paulo
+  source: Open WorldCat
+  title: >-
+    Casa-grande & senzala: formação da família brasileira sob o regime da
+    economia patriarcal
+  title-short: Casa-grande & senzala
   type: book
 
 - id: 'goncalves:1996retorica'
