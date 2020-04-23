@@ -7,12 +7,12 @@ author:
     affiliation       : Universidade de Brasília
 date                  : 2020-04-17
 csl                   : 'lib/styles/iso690-numeric-en.csl'
-lang                  : pt-BR
 suppress-bibliography : false
+lang                  : pt-BR
 xnos-cleveref         : true
 xnos-capitalise       : false
-fignos-caption-name   : 'figura'
-tablenos-caption-name : 'tabela'
+fignos-caption-name   : 'Figura'
+tablenos-caption-name : 'Tabela'
 xnos-caption-separator: period
 xnos-number-by-section: false
 abstract: |
