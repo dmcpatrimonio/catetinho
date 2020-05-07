@@ -205,8 +205,8 @@ Niemeyer nos canteiros de obras de Brasília --- do primeiro terminal do
 aeroporto a escolas primárias --- constitui um ciclo de variantes em
 torno do partido arquitetônico do Catetinho [@iphan:2017catetinho, 37].
 
-Rústico e espontâneo na arquitetura moderna brasileira
-------------------------------------------------------
+Espontaneidade na arquitetura moderna brasileira
+------------------------------------------------
 
 A obra é executada entre outubro e novembro de 1956 (@fig:out56).
 Segundo Niemeyer [@niemeyer:2006minha], o espírito da implantação do
@@ -221,11 +221,10 @@ espontâneo e irrefletido. Deve-se a Lucio Costa a primeira formulação
 discursiva dessa teoria, no influente artigo Documentação necessária
 [@costa:2007documentacao], e também a ele a sua expressão mais famosa,
 nas linhas de abertura do seu *Relatório do plano pilôto de Brasília*
-vencedor do concurso para o projeto da nova capital:
-
-> Não pretendia competir e, na verdade, não concorro --- apenas me
-> desvencilho de uma solução possível, que não foi procurada mas surgiu,
-> por assim dizer, já pronta. [@costa:1957relatorio, 33]
+vencedor do concurso para o projeto da nova capital: "Não pretendia
+competir e, na verdade, não concorro --- apenas me desvencilho de uma
+solução possível, que não foi procurada mas surgiu, por assim dizer, já
+pronta" [@costa:1957relatorio, 33].
 
 ![Catetinho em construção na última semana de outubro de 1956.
 Fotógrafo desconhecido. Arquivo Público do Distrito Federal (ArPDF),
@@ -246,7 +245,7 @@ associado ao pioneirismo do moderno. Não é por acaso que Rodrigo Mello
 Franco de Andrade, discursando no ato de recebimento do Catetinho como
 patrimônio nacional, em 1959, identifica o palácio de Tábuas com "a
 origem rústica e quase humilde da magestade [sic] da nova capital"
-[@iphan:1959catetinho, fl. 19].
+[@iphan:1959catetinho, f. 19].
 
 Telma de Barros Correia enxerga na plasticidade rústica favorecida por
 Costa uma referência intencional ao arquétipo do colonizador português
@@ -260,14 +259,54 @@ excelência dos "anos dourados". A aproximação entre JK, a bossa nova e o
 Catetinho será um tema desenvolvido à exaustão na literatura cronística
 sobre o palácio de Tábuas.
 
-Do palácio da bossa nova ao relicário de JK
-===========================================
+Improviso é, naturalmente, a característica principal na construção
+do Catetinho, devida seja à necessidade da ocasião, seja a uma afetação
+ideológica. Os frugais recursos materiais empregados na obra têm um
+efeito multiplicador na vulnerabilidade intrínseca à sua sumária
+concepção arquitetônica. Esta é desprovida de detalhes construtivos
+capazes de proteger o palácio de Tábuas da degradação ambiental ou mesmo
+de interações deletérias dos seus próprios materiais construtivos uns
+com os outros (@fig:contraventa).
+
+![Vista lateral do contraventamento em tábuas na empena do Catetinho.
+M.M. Mennucci, 2017
+](https://www.integra.unb.br/s/nNoHjNH87pz9R2q/preview){#fig:contraventa}
+
+Preservar a memória e conservar a matéria
+-----------------------------------------
+
+Ao longo das quatro décadas que se seguem ao tombamento do Catetinho,
+consolida-se o seu caráter de relicário estático e, simultaneamente,
+avança a sua deterioração física. Esses percursos paralelos testemunham
+a singularidade do Catetinho no âmbito da preservação do patrimônio
+moderno no Brasil. O propósito efêmero do palácio de Tábuas torna
+especialmente desafiadora a sua conservação física; a inscrição no livro
+do Tombo Histórico, por sua vez, situa o Catetinho no domínio da memória
+política, afastando-se de considerações sobre o seu valor como imagem
+plástica ou como vestígio arqueológico.
+
+* * *
+
+Os esteios realizados com tarugos aparafusados são diretamente
+engastados no radier, sobre o qual se assenta, também, um pequeno
+depósito em alvenaria de tijolos, único contraventamento originário da
+edificação. As vigas, também em tarugos aparafusados, formando perfis
+irregulares, são fixadas excentricamente sobre os esteios (@fig:pilotis)
+e sustentam diretamente o assoalho de tábuas. A cobertura é uma simples
+retícula de ripas e caibros bastante espaçados entre si, pousando
+sobre as paredes em tábuas do pavimento superior.
+
+![Pilotis do Catetinho. Foto: P.P. Palazzo, 2016
+](https://www.integra.unb.br/s/dcodWRSxRGqQZrz/preview){#fig:pilotis}
+
+Do palácio bossa nova ao relicário dos "pioneiros"
+==================================================
 
 Cristalização da narrativa oficial
 ----------------------------------
 
-Se JK é apresentado como o moço interiorano, filho de Diamantina, e ao
-mesmo tempo como o "presidente bossa nova", César Prates, diretor de
+JK é apresentado como o moço interiorano, filho de Diamantina, e ao
+mesmo tempo como o "presidente bossa nova". César Prates, diretor de
 relações públicas da Novacap, trata de associar o Catetinho a essa
 dúplice *persona* presidencial, fazendo do palácio de Tábuas o recanto
 das serestas e da bossa nova. Pouco importa se, na realidade, JK
@@ -304,7 +343,7 @@ que a estátua representa em silêncio:
 > exercer, no sítio escolhido para a nova capital do país, as
 > atribuições do Poder Executivo da União [...], erigindo-a como um
 > testemunho ciclópico de confiança no futuro da pátria.
-> [@iphan:1959catetinho, fl. 19]
+> [@iphan:1959catetinho, f. 19]
 
 O Catetinho se afigura a partir de 1959, portanto, como memorial
 hagiográfico da empreitada pioneira de JK no planalto Central, em outras
@@ -313,89 +352,80 @@ breve passagem do presidente pelo posto avançado da sua construção.
 Inscrito no livro do tombo histórico, não há menção às suas
 características arquitetônicas ou à sua importância enquanto vestígio
 material --- por oposição ao seu valor simbólico e político. Mesmo
-assim, o parecerista do processo, Paulo Thedim Barreto, e Rodrigo Mello
-Franco sugerem que a conservação da matéria construtiva original do
-Catetinho é indissociável da preservação de seu valor alusivo
-[@iphan:1959catetinho, fl. 12].
+assim, o relator do processo, Paulo Thedim Barreto, e o próprio Rodrigo
+Mello Franco sugerem que a conservação da matéria construtiva original
+do Catetinho é indissociável da preservação de seu valor alusivo
+[@iphan:1959catetinho, f. 12].
 
 Não há, em torno ao tombamento, previsão de qualquer uso para o imóvel,
 que até 1976 é apenas curado por um zelador. O caráter comemorativo do
 Catetinho é estático: uma placa em bronze, uma estátua de JK, o próprio
-edifício em seu sítio original. Enquanto instantâneo do "pré-natal" de
-Brasília, o Catetinho haverá de permanecer imobilizado num eterno dia
-1959, ao passo que a vida cívica acontecerá tão somente no coração da
-cidade que o palácio de Tábuas antecede.
+edifício em seu sítio original. Enquanto registro "pré-natal" de
+Brasília, o Catetinho haverá de permanecer imobilizado num eterno
+instante 1959, ao passo que a vida cívica acontecerá tão somente no
+coração da cidade que o palácio de Tábuas antecede. Sua deterioração
+física acompanha, a partir daí, o esquecimento simbólico.
 
-Esquecimento --- revisar ou eliminar?
-------------
 
-Após uma década e
-meia de incerteza quanto à responsabilidade sobre a manutenção e
-preservação do Catetinho, a gleba com o edifício foi transferida em 1976
-da Novacap para a Secretaria de Cultura e Esporte do Distrito Federal
-(SEC--DF). O Catetinho foi, então, aberto à visitação pública como museu
-memorial dos primeiros anos da construção de Brasília e de seus quatro
-hóspedes ilustres.
+O discurso da memória pioneira e seus efeitos na conservação
+------------------------------------------------------------
 
-Apesar da distinção de ser o primeiro bem tombado e
-a primeira obra de Niemeyer na Capital da República, 
-o Catetinho permaneceu à margem dos processos de
-patrimonialização de Brasília na década de 1980.
-Uma protagonista desse esquecimento do Catetinho,
-paradoxalmente, foi
-a atuação do GT Brasília, grupo de pesquisadores
-da Universidade e técnicos do Governo do Distrito Federal que,
-a partir de 1984, foi responsável pela definição da primeira
-política sistemática de preservação do patrimônio cultural
-na capital, concentrou-se em dois eixos:
-a monumentalidade erudita do Plano Piloto de Brasília
-e a memória pioneira dos *candangos*, operários
-da construção da cidade, materializada
-na arquitetura anônima dos acampamentos de obras
-no entorno imediato do Plano Piloto.
-Esse viés do GT Brasília estava relacionado
-à virada social das políticas de patrimônio cultural,
-desde meados da década de 1970, começou a valorizar
-narrativas de grupos sociais e a vinculação de lugares
-a práticas imateriais em detrimento de discursos
-sobre grandes feitos e heróis --- cerne da preservação
-do Catetinho, erigido em monumento à memória de JK
-e de sua iniciativa pela construção de Brasília.
+Após uma década e meia de incerteza quanto à responsabilidade sobre a
+manutenção e preservação do Catetinho, a gleba com o edifício é
+transferida em 1976 da Novacap para a Secretaria de Cultura e Esporte do
+Distrito Federal (SEC--DF). O Catetinho é, então, aberto à visitação
+pública como museu memorial dos primeiros anos da construção de Brasília
+e de seus quatro hóspedes ilustres.
+Apesar da distinção de ser o primeiro bem tombado e a primeira obra de
+Niemeyer na Capital da República, o Catetinho permanece à margem dos
+processos de patrimonialização de Brasília iniciados nos anos 1980.
 
-Isolado entre esses dois enfoques da geração do GT Brasília,
-o Catetinho padeceu por não ser nem monumento das Belas Artes
---- privilégio que lhe fora negado por Paulo Thedim Barreto,
-relator do processo de tombamento, ao recomendar
-a incomum inclusão no Livro Histórico ---,
-nem testemunho da cultura popular --- posto que tombado
-em nome da memória do próprio Presidente da República.
-Entrementes, o tratamento administrativo conferido ao Catetinho
-refletia o esquecimento histórico a que o palácio esteve
-submetido:
-quase duas décadas de incerteza oficial acerca da
-vinculação patrimonial do imóvel, pomposamente "recebido"
-pela DPHAN em 1959.
+A década de 1980 é marcada, no âmbito do patrimônio cultural do Distrito
+Federal, pela atuação do Departamento do Patrimônio Histórico e
+Artístico (Depha) e do GT--Brasília no reconhecimento dos sítios
+históricos da capital federal --- culminando na inscrição do conjunto
+urbanístico de Brasília na lista do patrimônio mundial da UNESCO,
+em 1987. O Catetinho, musealizado em 1978, permanece por mais de uma
+década em situação marginal nesse contexto.
+O GT--Brasília, grupo de pesquisadores da Universidade e técnicos do
+Governo do Distrito Federal que, a partir de 1984, é responsável pela
+definição da primeira política sistemática de preservação do patrimônio
+cultural na capital. Sua atuação concentra-se em dois eixos: a
+monumentalidade erudita do Plano Piloto de Brasília e a memória dos
+*candangos*, operários da construção da cidade, materializada na
+arquitetura anônima dos acampamentos de obras no entorno imediato do
+Plano Piloto. Esse viés do GT Brasília está relacionado à virada social
+das políticas de patrimônio cultural que, desde meados da década de
+1970, começa a valorizar narrativas de grupos sociais e a vinculação de
+lugares a práticas imateriais em detrimento de discursos sobre grandes
+feitos e heróis --- cerne da preservação do Catetinho, erigido em
+monumento à memória de JK e de sua iniciativa pela construção de
+Brasília.
 
-Conservar o que não se sabe como preservar
-==========================================
+Isolado entre esses dois enfoques da geração do GT--Brasília,
+o Catetinho padece por não ser nem monumento das Belas Artes ---
+privilégio negado por Paulo Thedim Barreto, relator do processo de
+tombamento, ao recomendar a incomum inclusão no Livro Histórico ---, nem
+testemunho da cultura popular --- posto que tombado em nome da memória
+do próprio Presidente da República. Entretanto, o tratamento
+administrativo conferido ao Catetinho reflete o esquecimento histórico a
+que o palácio esteve submetido: quase duas décadas de incerteza oficial
+acerca da vinculação patrimonial do imóvel, pomposamente "recebido" pela
+DPHAN em 1959.
 
-Patologias de uma estrutura em madeira
---------------------------------------
+A autonomia político-administrativa ao Distrito Federal, outorgada pela
+Constituição de 1988, alça ao poder local um grupo ligado à família de
+JK e a "pioneiros" da Novacap como Ernesto Silva. Esse grupo espelha no
+Catetinho sua busca por reconhecimento cultural, reivindicando o palácio
+de Tábuas como um lugar de memória. O papel do Catetinho como santuário
+comemorativo dos primórdios da construção de Brasília, assumido desde a
+sua abertura como museu em 1978, entrecruza-se em 1991 com a função
+comemorativa da nova elite governante no Distrito Federal. A
+pavimentação da área situada entre a estátua de JK e o Catetinho,
+executada nesse mesmo ano, passa a oferecer um espaço privilegiado para
+solenidades oficiais.
 
-Os esteios realizados com tarugos aparafusados são diretamente
-engastados no radier, sobre o qual se assenta, também, um pequeno
-depósito em alvenaria de tijolos, único contraventamento originário da
-edificação. As vigas, também em tarugos aparafusados, formando perfis
-irregulares, são fixadas excentricamente sobre os esteios (@fig:pilotis)
-e sustentam diretamente o assoalho de tábuas. A cobertura é uma simples
-retícula de ripas e caibros bastante espaçados entre si, pousando
-sobre as paredes em tábuas do pavimento superior.
-
-![Pilotis do Catetinho. Foto: P.P. Palazzo, 2016
-](https://www.integra.unb.br/s/dcodWRSxRGqQZrz/preview){#fig:pilotis}
-
-Restauro ou reconstrução
-------------------------
+A intervenção mais brutal, no entanto, ocorre de 1995 a 1997.
 
 
 Discussão
