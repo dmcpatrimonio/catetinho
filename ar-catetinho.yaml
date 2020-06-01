@@ -1,0 +1,22 @@
+---
+title: "Catetinho: patrimonialização e arquitetura efêmera"
+author:
+  - name              : Marina Martins Mennucci
+    affiliation       : Universidade de Aveiro
+  - name              : Pedro Paulo Palazzo
+    affiliation       : Universidade de Brasília
+date                  : 2020-04-17
+csl                   : 'styles/iso690-numeric-en.csl'
+bibliography          : 'bibliography/biblio.bib'
+suppress-bibliography : false
+lang                  : pt-BR
+xnos-cleveref         : true
+xnos-capitalise       : false
+fignos-caption-name   : 'Figura'
+tablenos-caption-name : 'Tabela'
+xnos-caption-separator: period
+xnos-number-by-section: false
+description:
+keywords:
+---
+
