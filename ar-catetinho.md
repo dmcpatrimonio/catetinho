@@ -6,7 +6,8 @@ author:
   - name              : Pedro Paulo Palazzo
     affiliation       : Universidade de Brasília
 date                  : 2020-04-17
-csl                   : 'lib/styles/iso690-numeric-en.csl'
+csl                   : 'styles/iso690-numeric-en.csl'
+bibliography          : 'bibliography/biblio.bib'
 suppress-bibliography : false
 lang                  : pt-BR
 xnos-cleveref         : true
@@ -15,55 +16,9 @@ fignos-caption-name   : 'Figura'
 tablenos-caption-name : 'Tabela'
 xnos-caption-separator: period
 xnos-number-by-section: false
-abstract: |
-  Resumo
-  ------
-
-  O Resumo deve estar no idioma do artigo, em parágrafo único, com até
-  200 palavras, acompanhado de três a cinco palavras-chave. Nos casos em
-  que o artigo é escrito em inglês, solicita-se também a apresentação
-  de resumo e palavras-chave em português. As palavras-chave devem ser,
-  preferencialmente, diferentes dos termos usados no título. Enquanto o
-  artigo estiver em processo de avaliação cega por pares, toda e
-  qualquer identificação dos autores deve ser retirada do texto ou
-  substituída por texto genérico no formato “XXXX”. Considera-se como
-  identificação as informações de nome do autor, identificação dos
-  autores, fonte de autoria dos autores de figuras, quadros ou tabelas,
-  citações, lista de referências, agradecimentos, partes do texto de
-  citam grupos de pesquisa e instituição do local de realização da
-  pesquisa.
-
-  Palavras-chave: Três a cinco palavras-chave, separadas por vígulas.
-
-  Abstract
-  --------
-
-  Among the monuments of Brazilian modernist architecture, the
-  Catetinho, built in 1956 near the construction site of Brasília, is one
-  of a kind. The only extant work by Oscar Niemeyer built out of wood, it
-  was intended to be a temporary office for the President of the Republic
-  during the construction of the new capital city. This work discusses the
-  current state of conservation of the Catetinho, how its design and
-  construction techniques impact conventional wisdom on the preservation
-  of both modernist and wooden buildings, and recommended strategies to
-  protect material integrity and the intelligibility of its original
-  design. The research points out that, while the hastily detailed
-  structural system is itself a risk factor to the Catetinho's durability,
-  conservation efforts can be helped by a clear vision as to which among
-  the existing materials and techniques are essential to the building's
-  identity.
-
-  Keywords: 1950s, Brasília, Catetinho, wood, restorations, modifications, maintenance
 description:
 keywords:
 ---
-
-Este documento apresenta as instruções para formatação de artigos a
-serem submetidos para a **ArquiteturaRevista**, com o fluxo contínuo para
-submissões de trabalhos inéditos. O texto completo, incluindo tabelas,
-elementos gráficos, notas e referências, deverá ter extensão entre 4.000
-e 8.000 palavras, com o máximo de 22 páginas. O tamanho do arquivo está
-restrito em 5 MB.
 
 Introdução
 ==========
@@ -205,6 +160,21 @@ Niemeyer nos canteiros de obras de Brasília --- do primeiro terminal do
 aeroporto a escolas primárias --- constitui um ciclo de variantes em
 torno do partido arquitetônico do Catetinho [@iphan:2017catetinho, 37].
 
+A falta de preocupação com a durabilidade do edifício é evidente na
+ausência de detalhamento construtivo ou de refinamento na execução da
+estrutura e dos acabamentos.
+Os esteios realizados com tarugos aparafusados são diretamente
+engastados no radier, sobre o qual se assenta, também, um pequeno
+depósito em alvenaria de tijolos, único contraventamento originário da
+edificação. As vigas, também em tarugos aparafusados, formando perfis
+irregulares, são fixadas excentricamente sobre os esteios (@fig:pilotis)
+e sustentam diretamente o assoalho de tábuas. A cobertura é uma simples
+retícula de ripas e caibros bastante espaçados entre si, pousando
+sobre as paredes em tábuas do pavimento superior.
+
+![Pilotis do Catetinho. Foto: P.P. Palazzo, 2016
+](https://www.integra.unb.br/s/dcodWRSxRGqQZrz/preview){#fig:pilotis}
+
 Espontaneidade na arquitetura moderna brasileira
 ------------------------------------------------
 
@@ -259,6 +229,19 @@ excelência dos "anos dourados". A aproximação entre JK, a bossa nova e o
 Catetinho será um tema desenvolvido à exaustão na literatura cronística
 sobre o palácio de Tábuas.
 
+JK é apresentado como o moço interiorano, filho de Diamantina, e ao
+mesmo tempo como o "presidente bossa nova". César Prates, diretor de
+relações públicas da Novacap, trata de associar o Catetinho a essa
+dúplice *persona* presidencial, fazendo do palácio de Tábuas o recanto
+das serestas e da bossa nova. Pouco importa se, na realidade, JK
+raramente pernoita no Catetinho [@prates:1983catetinho, 43], o qual
+termina por servir como moradia e local de trabalho para os próprios
+executivos da Novacap. Prates oficializa a narrativa presidencial graças
+às visitas ao Catetinho do seresteiro Dilermando Reis e dos ícones da
+bossa nova, Tom Jobim e Vinicius de Moraes [@francisco:2004catetinho,
+20]. A canção *Água de beber*, presumivelmente inspirada no olho d'água
+vizinho ao palácio de Tábuas, imortaliza essa narrativa. 
+
 Improviso é, naturalmente, a característica principal na construção
 do Catetinho, devida seja à necessidade da ocasião, seja a uma afetação
 ideológica. Os frugais recursos materiais empregados na obra têm um
@@ -272,51 +255,12 @@ com os outros (@fig:contraventa).
 M.M. Mennucci, 2017
 ](https://www.integra.unb.br/s/nNoHjNH87pz9R2q/preview){#fig:contraventa}
 
-Preservar a memória e conservar a matéria
------------------------------------------
 
-Ao longo das quatro décadas que se seguem ao tombamento do Catetinho,
-consolida-se o seu caráter de relicário estático e, simultaneamente,
-avança a sua deterioração física. Esses percursos paralelos testemunham
-a singularidade do Catetinho no âmbito da preservação do patrimônio
-moderno no Brasil. O propósito efêmero do palácio de Tábuas torna
-especialmente desafiadora a sua conservação física; a inscrição no livro
-do Tombo Histórico, por sua vez, situa o Catetinho no domínio da memória
-política, afastando-se de considerações sobre o seu valor como imagem
-plástica ou como vestígio arqueológico.
-
-* * *
-
-Os esteios realizados com tarugos aparafusados são diretamente
-engastados no radier, sobre o qual se assenta, também, um pequeno
-depósito em alvenaria de tijolos, único contraventamento originário da
-edificação. As vigas, também em tarugos aparafusados, formando perfis
-irregulares, são fixadas excentricamente sobre os esteios (@fig:pilotis)
-e sustentam diretamente o assoalho de tábuas. A cobertura é uma simples
-retícula de ripas e caibros bastante espaçados entre si, pousando
-sobre as paredes em tábuas do pavimento superior.
-
-![Pilotis do Catetinho. Foto: P.P. Palazzo, 2016
-](https://www.integra.unb.br/s/dcodWRSxRGqQZrz/preview){#fig:pilotis}
+Tombamento e preservação
+========================
 
 Do palácio bossa nova ao relicário dos "pioneiros"
-==================================================
-
-Cristalização da narrativa oficial
-----------------------------------
-
-JK é apresentado como o moço interiorano, filho de Diamantina, e ao
-mesmo tempo como o "presidente bossa nova". César Prates, diretor de
-relações públicas da Novacap, trata de associar o Catetinho a essa
-dúplice *persona* presidencial, fazendo do palácio de Tábuas o recanto
-das serestas e da bossa nova. Pouco importa se, na realidade, JK
-raramente pernoita no Catetinho [@prates:1983catetinho, 43], o qual
-termina por servir como moradia e local de trabalho para os próprios
-executivos da Novacap. Prates oficializa a narrativa presidencial graças
-às visitas ao Catetinho do seresteiro Dilermando Reis e dos ícones da
-bossa nova, Tom Jobim e Vinicius de Moraes [@francisco:2004catetinho,
-20]. A canção *Água de beber*, presumivelmente inspirada no olho d'água
-vizinho ao palácio de Tábuas, imortaliza essa narrativa. 
+--------------------------------------------------
 
 Em junho de 1958, com a inauguração do Palácio da Alvorada, JK deixa de
 frequentar o Catetinho (@fig:placa), mas no mesmo ano solicita à então
@@ -358,28 +302,33 @@ do Catetinho é indissociável da preservação de seu valor alusivo
 [@iphan:1959catetinho, f. 12].
 
 Não há, em torno ao tombamento, previsão de qualquer uso para o imóvel,
-que até 1976 é apenas curado por um zelador. O caráter comemorativo do
+que até 1978 é apenas curado por um zelador. O caráter comemorativo do
 Catetinho é estático: uma placa em bronze, uma estátua de JK, o próprio
 edifício em seu sítio original. Enquanto registro "pré-natal" de
 Brasília, o Catetinho haverá de permanecer imobilizado num eterno
 instante 1959, ao passo que a vida cívica acontecerá tão somente no
 coração da cidade que o palácio de Tábuas antecede. Sua deterioração
 física acompanha, a partir daí, o esquecimento simbólico.
-
-
-O discurso da memória pioneira e seus efeitos na conservação
-------------------------------------------------------------
+Ao longo das quatro décadas que se seguem ao tombamento do Catetinho,
+consolida-se o seu caráter de relicário estático e, simultaneamente,
+avança a sua deterioração física. Esses percursos paralelos testemunham
+a singularidade do Catetinho no âmbito da preservação do patrimônio
+moderno no Brasil. O propósito efêmero do palácio de Tábuas torna
+especialmente desafiadora a sua conservação física; a inscrição no livro
+do Tombo Histórico, por sua vez, situa o Catetinho no domínio da memória
+política, afastando-se de considerações sobre o seu valor como imagem
+plástica ou como vestígio arqueológico.
 
 Após uma década e meia de incerteza quanto à responsabilidade sobre a
 manutenção e preservação do Catetinho, a gleba com o edifício é
 transferida em 1976 da Novacap para a Secretaria de Cultura e Esporte do
-Distrito Federal (SEC--DF). O Catetinho é, então, aberto à visitação
+Distrito Federal (SEC--DF). O Catetinho é, em 1978, aberto à visitação
 pública como museu memorial dos primeiros anos da construção de Brasília
 e de seus quatro hóspedes ilustres.
+
 Apesar da distinção de ser o primeiro bem tombado e a primeira obra de
 Niemeyer na Capital da República, o Catetinho permanece à margem dos
 processos de patrimonialização de Brasília iniciados nos anos 1980.
-
 A década de 1980 é marcada, no âmbito do patrimônio cultural do Distrito
 Federal, pela atuação do Departamento do Patrimônio Histórico e
 Artístico (Depha) e do GT--Brasília no reconhecimento dos sítios
@@ -387,6 +336,7 @@ históricos da capital federal --- culminando na inscrição do conjunto
 urbanístico de Brasília na lista do patrimônio mundial da UNESCO,
 em 1987. O Catetinho, musealizado em 1978, permanece por mais de uma
 década em situação marginal nesse contexto.
+
 O GT--Brasília, grupo de pesquisadores da Universidade e técnicos do
 Governo do Distrito Federal que, a partir de 1984, é responsável pela
 definição da primeira política sistemática de preservação do patrimônio
@@ -412,6 +362,9 @@ administrativo conferido ao Catetinho reflete o esquecimento histórico a
 que o palácio esteve submetido: quase duas décadas de incerteza oficial
 acerca da vinculação patrimonial do imóvel, pomposamente "recebido" pela
 DPHAN em 1959.
+
+O discurso da memória pioneira e seus efeitos na conservação
+------------------------------------------------------------
 
 A autonomia político-administrativa ao Distrito Federal, outorgada pela
 Constituição de 1988, alça ao poder local um grupo ligado à família de
