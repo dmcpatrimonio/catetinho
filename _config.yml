@@ -13,6 +13,7 @@ lang            : pt
 # Content settings {{{1
 header_pages:
   6icch-mencfp.md
+  ar-catetinho.md
 
 collections:
   biblio:
@@ -20,7 +21,7 @@ collections:
 # defaults:
 
 # Template settings {{{1
-theme           : minima
+remote_theme    : p3palazzo/minima-scholar
 minima:
   date_format   : "%e %B %Y"
   social_links:
