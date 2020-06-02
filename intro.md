@@ -2,7 +2,7 @@ Introdução
 ==========
 
 As arraigadas identidades profissionais e políticas dependentes do
-movimento Moderno  têm sido componentes cruciais na formulação de valores
+movimento Moderno têm sido componentes cruciais na formulação de valores
 patrimoniais no Brasil e, sobretudo, na patrimonialização imediata da
 nossa arquitetura contemporânea. Essas identidades são em grande parte
 articuladas em torno do grupo de arquitetos "racionalistas" do Rio de
