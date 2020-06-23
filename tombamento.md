@@ -130,6 +130,7 @@ A maioria das patologias em estruturas no Brasil está relacionada com projetos,
 Tabela 1 – Tabela com principais agentes causadores de patologia em madeira adaptada de Brito (2014).
 	
 Tabela 1 – Tabela com principais agentes causadores de patologia em madeira adaptada de Brito (2014).  
+
 Agentes de deterioracão da madeira
 Agentes abióticos	Bactérias	
 	Fungos	Fungos manchadores
