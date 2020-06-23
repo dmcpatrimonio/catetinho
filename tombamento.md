@@ -128,3 +128,5 @@ Patologias e Conservação
 
 A maioria das patologias em estruturas no Brasil está relacionada com projetos, execução e manutenção.  Em estruturas de madeira, os maiores problemas são os agentes bióticos e as intempéries, contratempos mecânicos também podem existir, mas a causa desses problemas tem origem no projeto, na sua execução ou ainda na falta de manutenção, já citados (LEPAGE, 1986; JANKOWSKY, 1990; CRUZ, 2001; BARILLARI, 2002; GONZAGA, 2006; PALMA e CRUZ, 2007; TAMPONE, 2007; COSTA, 2009; DRIEMEYER, 2009; DA MOTTA, 2010; MORESCHI, 2013a; BRITO, 2014; OLIVEIRA, 2016; ALFIERI et al., 2018; ALFIERI et al., 2020).  Brito (2014) montou uma tabela com os principais agentes de deterioração da madeira, baseada na literatura, uma adaptação desta tabela é apresentada na Tabela 1. 
 Tabela 1 – Tabela com principais agentes causadores de patologia em madeira adaptada de Brito (2014).
+
+
