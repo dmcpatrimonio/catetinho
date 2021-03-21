@@ -6,17 +6,14 @@ author:
   - name              : Pedro Paulo Palazzo
     affiliation       : Universidade de Brasília
 date                  : 2020-04-17
-csl                   : 'styles/iso690-numeric-en.csl'
-bibliography          : 'bibliography/biblio.bib'
-suppress-bibliography : false
+csl                   : '_csl/iso690-numeric-en.csl'
+cssLabelSep           : '&ndash;'
+figureTitle           : 'Figura'
 lang                  : pt-BR
-xnos-cleveref         : true
-xnos-capitalise       : false
-fignos-caption-name   : 'Figura'
-tablenos-caption-name : 'Tabela'
-xnos-caption-separator: period
-xnos-number-by-section: false
+suppress-bibliography : false
+tableTitle            : 'Tabela'
 description:
 keywords:
+abstract:
 ---
 

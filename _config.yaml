@@ -14,21 +14,27 @@ lang            : pt
 header_pages:
   6icch-mencfp.md
 
-collections:
-  biblio:
-
-# defaults:
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: page
 
 # Template settings {{{1
 theme           : minima
+timezone        : America/Sao_Paulo
 minima:
   date_format   : "%e %B %Y"
   social_links:
     github      : https://github.com/dmcpatrimonio/catetinho
 
 # Build settings {{{1
-source          : docs/
-markdown        : kramdown
+markdown        : Pandoc
+pandoc:
+  extensions:
+    - defaults: "_spec/jekyll.yaml"
+    - section-divs
 plugins:
   - jekyll-feed
   - jekyll-sitemap
@@ -38,12 +44,14 @@ plugins:
   - jekyll-coffeescript
   - jekyll-default-layout
   - jekyll-gist
-  - jekyll-github-metadata
+  #- jekyll-github-metadata
   - jekyll-optional-front-matter
   - jekyll-paginate
   - jekyll-readme-index
   - jekyll-titles-from-headings
   - jekyll-relative-links
+    # The following not compatible with GH-Pages
+  - jekyll-pandoc
 permalink         : pretty
 kramdown:
   auto_ids        : true
@@ -56,5 +64,15 @@ readme_index:
   enabled         : true
   remove_originals: true
   with_frontmatter: true
+
+# Keep and exclude {{{1
+# ================
+exclude:
+  - LICENSE
+  - Makefile
+  - layout.md
+  - "*.svg"
+keep_files:
+  - .git
 
 # vim: set foldmethod=marker :
