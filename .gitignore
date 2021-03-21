@@ -26,6 +26,7 @@ _site/
 .jekyll-metadata
 .vendor/
 .bundle/
+Gemfile.lock
 
 # eBook build output {{{1
 *.epub

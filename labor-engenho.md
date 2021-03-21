@@ -1,3 +1,5 @@
+[Submissões](https://periodicos.sbu.unicamp.br/ojs/index.php/labore/about/submissions)
+
 # Instruções aos autores #
 
 1. A Labor & Engenho utiliza obrigatoriamente a norma da American

@@ -1,0 +1,15 @@
+to        : html
+#template  : '_lib/default.jekyll'
+bibliography            : 'bibliography/biblio.bib'
+email-obfuscation       : references
+fail-if-warnings        : true
+file-scope              : true
+filters:
+- pandoc-crossref
+- citeproc
+resource-path:
+- .
+- _lib
+- _spec
+- figures
+shift-heading-level-by  : 1
