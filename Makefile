@@ -1,25 +1,27 @@
 # Global variables {{{1
 # ================
 # Where make should look for things
-VPATH = lib
+VPATH = _lib
+vpath %.bib bibliography
 vpath %.csl _csl
 vpath %.yaml .:_spec
 vpath default.% _lib
 vpath reference.% _lib
-# Sets a base directory for project files that reside somewhere else,
-# for example in a synced virtual drive.
-SHARE = ~/dmcp/arqtrad/arqtrad
 
 # Branch-specific targets and recipes {{{1
 # ===================================
 
 ANYTHING = $(filter_out _site,$(wildcard *))
+TEXT     = $(shell cat layout.md)
 
 PANDOC/CROSSREF := docker run --rm -v "`pwd`:/data" \
 	--user "`id -u`:`id -g`" pandoc/crossref:2.12
 
 PANDOC/LATEX := docker run --rm -v "`pwd`:/data" \
 	--user "`id -u`:`id -g`" pandoc/latex:2.12
+
+artigo.docx : $(TEXT) metadata.yaml docx.yaml reference.docx biblio.bib | _csl
+	$(PANDOC/CROSSREF) -o $@ -d _spec/docx.yaml $(TEXT) metadata.yaml
 
 .jekyll-cache : $(ANYTHING) _site/Gemfile.lock | _csl
 	@bundle exec jekyll build
@@ -28,8 +30,9 @@ serve : Gemfile.lock
 	@bundle exec jekyll serve --incremental
 
 # Genérico, restringir conforme aplicável
-_book/%.docx : %.md article_docx.yaml _data/biblio.yaml
-	$(PANDOC/CROSSREF) -o $@ -d _spec/article_docx.yaml $<
+_book/%.docx : %.md docx.yaml default.markdown reference.docx \
+	biblio.bib figures | _csl
+	$(PANDOC/CROSSREF) -o $@ -d _spec/docx.yaml $<
 
 docs/%.md : %.md jekyll.yaml _data/biblio.yaml
 	$(PANDOC/CROSSREF) -o $@ -d _spec/jekyll.yaml $<
@@ -38,10 +41,11 @@ figures/%.png : %.svg
 	inkscape -f $< -e $@ -d 96
 
 _csl :
-	git clone https://github.com/citation-style-language/styles _csl
+	@gh repo clone citation-style-language/styles \
+		$@ -- --depth=1
 
 _site :
-	@-gh repo clone catetinho _site -- \
+	@-gh repo clone dmcpatrimonio/catetinho _site -- \
 		-b gh-pages --depth=1 --recurse-submodules
 
 Gemfile.lock : Gemfile _config.yaml | _site

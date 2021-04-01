@@ -1,0 +1,22 @@
+from                   : 'markdown'
+to                     : 'docx'
+data-dir               : "_lib"
+default-image-extension: '.jpg'
+fail-if-warnings       : False
+file-scope             : True
+filters:
+- pandoc-crossref
+- citeproc
+metadata:
+  bibliography         : "bibliography/biblio.bib"
+  csl                  : "_csl/apa.csl"
+  cssLabelSep          : '&ndash;'
+  figureTitle          : 'Figura'
+  tableTitle           : 'Tabela'
+  lang                 : pt-BR
+number-sections        : True
+resource-path:
+- .
+- bibliography
+- figures
+table-of-contents      : False

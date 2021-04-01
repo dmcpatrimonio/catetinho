@@ -12,8 +12,7 @@ pedigree do recado presidencial não é de se desprezar; Niemeyer
 celebrará, em relato autobiográfico tardio, a "intuição e experiência"
 de JK em assuntos arquitetônicos [@niemeyer:2006minha, 19].
 
-![Inauguração por JK da placa comemorativa do Catetinho, junho de 1958
-](){#fig:placa}
+![Inauguração por JK da placa comemorativa do Catetinho, junho de 1958](){#fig:placa}
 
 Diligente e concisamente, a DPHAN procede ao tombamento do palácio de
 Tábuas em julho de 1959 sem tecer justificativas acerca dos valores
