@@ -53,8 +53,7 @@ um mesmo lado da varanda--corredor, entre duas empenas laterais cegas e
 coberta com uma meia-água, retoma o partido já empregado por Niemeyer no
 Grande hotel Ouro Preto, em 1938 (@fig:ghop).
 
-![Oscar Niemeyer. Grande hotel Ouro Preto, 1938. Foto: Pedro P. Palazzo,
-2007](){#fig:ghop}
+![Oscar Niemeyer. Grande hotel Ouro Preto, 1938. Foto: Pedro P. Palazzo, 2007](){#fig:ghop}
 
 Niemeyer antecipa assim, no Catetinho, uma solução que será pouco depois
 consagrada nos blocos habitacionais das mais antigas superquadras de
@@ -77,8 +76,7 @@ e sustentam diretamente o assoalho de tábuas. A cobertura é uma simples
 retícula de ripas e caibros bastante espaçados entre si, pousando
 sobre as paredes em tábuas do pavimento superior.
 
-![Pilotis do Catetinho. Foto: P.P. Palazzo, 2016
-](https://www.integra.unb.br/s/dcodWRSxRGqQZrz/preview){#fig:pilotis}
+![Pilotis do Catetinho. Foto: P.P. Palazzo, 2016](){#fig:pilotis}
 
 Espontaneidade na arquitetura moderna brasileira
 ------------------------------------------------
@@ -101,10 +99,7 @@ competir e, na verdade, não concorro --- apenas me desvencilho de uma
 solução possível, que não foi procurada mas surgiu, por assim dizer, já
 pronta" [@costa:1957relatorio, 33].
 
-![Catetinho em construção na última semana de outubro de 1956.
-Fotógrafo desconhecido. Arquivo Público do Distrito Federal (ArPDF),
-acervo Novacap D4.4.b2 514
-](https://www.integra.unb.br/s/3cq3c88E298i8CX/preview){#fig:out56}
+![Catetinho em construção na última semana de outubro de 1956. Fotógrafo desconhecido. Arquivo Público do Distrito Federal (ArPDF), acervo Novacap D4.4.b2 514](){#fig:out56}
 
 A ética de afetar espontaneidade vem, para Costa, associada desde o
 início a uma estética da materialidade rústica. Da apropriação da
@@ -156,9 +151,5 @@ capazes de proteger o palácio de Tábuas da degradação ambiental ou mesmo
 de interações deletérias dos seus próprios materiais construtivos uns
 com os outros (@fig:contraventa).
 
-![Vista lateral do contraventamento em tábuas na empena do Catetinho.
-M.M. Mennucci, 2017
-](https://www.integra.unb.br/s/nNoHjNH87pz9R2q/preview){#fig:contraventa}
-
-
+![Vista lateral do contraventamento em tábuas na empena do Catetinho. M.M. Mennucci, 2017](){#fig:contraventa}
 

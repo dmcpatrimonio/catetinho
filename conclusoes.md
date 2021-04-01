@@ -1,5 +1,4 @@
-Conclusões
-==========
+# Conclusões #
 
 As vicissitudes da preservação do Catetinho sinalizam as contradições
 inerentes à patrimonialização da arquitetura moderna.
@@ -53,8 +52,7 @@ A formulação explícita dos valores patrimoniais a serem preservados no
 Catetinho é, portanto, um passo essencial para o estabelecimento de
 prioridades na conservação física da edificação. ???????????????
 
-Agradecimentos
-==============
+# Agradecimentos #
 
 Os autores agradecem à superintendência do Iphan no Distrito Federal, em
 particular ao consultor Maurício Guimarães Goulart e ao coordenador
@@ -80,13 +78,8 @@ envolvidos neste projeto: Alessio Gallizio, Déborah de Oliveira, Horia
 Georgescu, Maíra Guimarães, Marília Alves, Sara Zampronha, Sarah Almeida
 e Tauana Amaral.
 
-Referências
-===========
+# Referências {.unnumbered} #
 
 ::: {#refs}
 :::
-
-Notas
-=====
-
 

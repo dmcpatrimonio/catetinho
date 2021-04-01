@@ -25,8 +25,7 @@ conhecido altos e baixos, com repetidas intervenções tencionando a
 repristinar o seu aspecto visível, ao custo da quase completa destruição
 da sua materialidade originária.
 
-![Catetinho, exterior. Foto: P.P. Palazzo, 2016 @iphan:2017catetinho
-](https://www.integra.unb.br/s/cHSbfbgXNW2wAp5/preview){#fig:intro}
+![Catetinho, exterior. Foto: P.P. Palazzo, 2016 @iphan:2017catetinho](){#fig:intro}
 
 Sustentamos neste artigo que os ciclos perversos de deterioração e
 restauro do Catetinho não são meros acidentes de alguma má gestão ou da
@@ -70,5 +69,4 @@ Tais problemas extrapolam os marcos teóricos convencionais da
 conservação de bens culturais, mas também colocam em crise as
 particularidades frequentemente invocadas na preservação do patrimônio
 moderno.
-
 
