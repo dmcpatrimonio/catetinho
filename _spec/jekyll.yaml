@@ -1,5 +1,5 @@
-to        : html
-#template  : '_lib/default.jekyll'
+from                    : "markdown+raw_tex"
+to                      : html
 bibliography            : 'bibliography/biblio.bib'
 email-obfuscation       : references
 fail-if-warnings        : true
@@ -10,6 +10,6 @@ filters:
 resource-path:
 - .
 - _lib
-- _spec
+- bibliography
 - figures
 shift-heading-level-by  : 1
